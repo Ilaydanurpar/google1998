@@ -1,0 +1,77 @@
+/*Editing for the whole page*/
+body {
+    text-align: center;
+}
+
+/*Editing for the search section*/
+.search-section {
+    background-color: #E6E6FA ;
+    margin: 0 70px;
+    height: 60px;
+ }
+
+ /*Editing for the search box*/
+ .search-box {
+float: none;
+width: 309px;
+height: 15px;
+padding: 1px 2px;
+ }
+
+ /*Editing for the special searchs*/
+ .special-searches {
+    margin-top: 2px;
+    float: left;
+    background-color: rgb(126, 229, 218);
+    margin-left: 70px;
+    margin-right: 2px;
+    width: 33%;
+    height: 58px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+ }
+ /*Editing for the all link*/
+ a.link:hover {
+    color: purple;
+ }
+ /*Editing for the other-choise*/
+ .other-choice {
+    float: left;
+    background-color: rgb(112, 204, 194);
+    margin-top: 2px;
+    margin-right: 2px;
+    width: 17.5%;
+    height: 78px;
+ }
+ 
+  /*Editing for the font-size in section of other choice*/
+ .font{
+    font-size: 12px;
+ }
+
+ /*Editing for the section of update*/
+ .update {
+    float: left;
+    margin-top: 2px;
+    width: 38.8%;
+    height: 78px;
+    background-color: rgb(98, 179, 170);
+ }
+
+ /*Editing for the e-mail box*/
+ .email-box {
+    width: 169;
+    height: 15px;
+    padding: 1px 2px;
+ }
+
+ /*Editing for the subscribe button*/
+ .subscribe {
+    height: 20px;
+    margin-left: 0px;
+    
+ }
+ /*Editing the font in last sentences.*/
+#font-p {
+    font-size: 13px;
+}
